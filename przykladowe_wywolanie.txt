@@ -1,0 +1,2 @@
+python reader.py in.pickle out.csv 0,1,ble 1,1,ble
+python reader.py in.json out.csv 0,1,aaa 1,1,aaa
